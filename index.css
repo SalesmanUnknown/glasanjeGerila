@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  font-family: Helvetica, Helvetica, Helvetica;
+}
+
+section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+.kraj {
+  padding-bottom: 20px;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.coded {
+  padding: 30px;
+}
+
+.srce {
+  display: inline;
+}
+
+h5 {
+  font-weight: 200;
+}
+
+.srce {
+  color: red;
+}
